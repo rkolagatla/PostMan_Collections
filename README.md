@@ -1,2 +1,2 @@
 # PostMan Collections
-All PostMan Collections Created Manually
+All PostMan Collections Created Manually.
