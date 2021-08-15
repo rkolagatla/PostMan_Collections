@@ -1,2 +1,2 @@
-# PostMan_Collections
+# PostMan Collections
 All PostMan Collections Created Manually
